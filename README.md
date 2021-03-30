@@ -1,6 +1,6 @@
 # LicensePlateRecognition
 
- Hello everyone, this project includes license plate recognition with OpenCv and saves detected images. I didn't compile because the exe file maybe not work your computer, you must be compile this solution for use.
+ Hello everyone, this project includes license plate recognition with OpenCv and saves detected images. I didn't compile because the exe file maybe not work on your computer, you have to compile this solution in order to use.
  
  You need to add OpenCv's include path and library path for compile this solution.
  
